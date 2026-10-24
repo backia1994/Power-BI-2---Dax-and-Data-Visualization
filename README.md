@@ -1,6 +1,4 @@
- Power-BI-2---Dax-and-Data-Visualization
- DAX and Data Visualization – Sales Analysis
-Project Overview
+ Power-BI-2-DAX and Data Visualization – Sales Analysis Project Overview
 This Power BI mini project analyzes retail sales, profit, quantity, product sub-categories, monthly sales, category targets, and geographical performance. It uses DAX calculations and interactive visualizations to turn the supplied CSV data into business insights.
 Tools Used
 •	Microsoft Power BI
